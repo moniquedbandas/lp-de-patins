@@ -1,6 +1,7 @@
 .banner {
   width: 100%;
   padding-block: 2.5rem;
+  /* padding em cima e embaixo */
   overflow: hidden;
 
   .scroller {

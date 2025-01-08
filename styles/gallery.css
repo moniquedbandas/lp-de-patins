@@ -21,8 +21,8 @@ section.gallery {
     margin-top: 2rem;
     display: grid;
     grid-template-areas:
-      'A B B'
-      'C C D';
+      "A B B"
+      "C C D";
 
     gap: 2.5rem;
   }
@@ -54,6 +54,7 @@ section.gallery {
 
       figcaption {
         transform: translateY(0);
+        /* vem de baixo para cima. */
       }
     }
 
